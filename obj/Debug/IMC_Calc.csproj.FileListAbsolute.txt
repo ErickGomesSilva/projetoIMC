@@ -1,0 +1,7 @@
+C:\Users\Erick Gomes da Silva\source\repos\IMC_Calc\IMC_Calc\bin\Debug\IMC_Calc.exe.config
+C:\Users\Erick Gomes da Silva\source\repos\IMC_Calc\IMC_Calc\bin\Debug\IMC_Calc.exe
+C:\Users\Erick Gomes da Silva\source\repos\IMC_Calc\IMC_Calc\bin\Debug\IMC_Calc.pdb
+C:\Users\Erick Gomes da Silva\source\repos\IMC_Calc\IMC_Calc\obj\Debug\IMC_Calc.csprojAssemblyReference.cache
+C:\Users\Erick Gomes da Silva\source\repos\IMC_Calc\IMC_Calc\obj\Debug\IMC_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Erick Gomes da Silva\source\repos\IMC_Calc\IMC_Calc\obj\Debug\IMC_Calc.exe
+C:\Users\Erick Gomes da Silva\source\repos\IMC_Calc\IMC_Calc\obj\Debug\IMC_Calc.pdb

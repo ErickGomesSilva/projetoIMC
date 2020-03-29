@@ -13,8 +13,16 @@ namespace IMC_Calc
             
             double peso;
             double altura;
-           
-          
+
+
+            Console.WriteLine("Informe seu peso");
+            peso = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Informe sua Altura");
+            altura = Convert.ToDouble(Console.ReadLine());
+
+
+            Console.WriteLine("IMC: " + (peso / (altura * altura)));
+            Console.ReadKey();
 
 
 
